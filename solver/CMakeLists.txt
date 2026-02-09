@@ -1,0 +1,30 @@
+cmake_minimum_required(VERSION 3.13)
+project(iopdll_custom LANGUAGES CXX)
+
+if(NOT CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    message(FATAL_ERROR "Only GNU g++ compiler is supported!")
+endif()
+if(NOT CMAKE_SIZEOF_VOID_P EQUAL 8)
+    message(FATAL_ERROR "Only 64-bit systems are supported!")
+endif()
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fopenmp -std=c++20 -Ofast -static-libgcc -static-libstdc++")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -ftree-vectorize -funroll-loops")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wno-use-after-free -Wno-class-memaccess -Wno-psabi")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wno-volatile -Wno-deprecated-enum-enum-conversion")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wmaybe-uninitialized")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -DNDEBUG -DLONGDOUBLE_PROB -DLONGLONG_COST -DWCSPFORMATONLY -DBoost=OFF")
+
+if(NOT APPLE)
+    set(CMAKE_FIND_LIBRARY_SUFFIXES ".a")
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -static")
+    set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static")
+endif ()
+
+add_subdirectory(toulbar)
+add_subdirectory(sysinfo)
+
+set(EXE_NAME iopddl)
+add_executable(${EXE_NAME} main.cpp)
+target_link_libraries(${EXE_NAME} PRIVATE tb2-archive sysinfo)
+target_include_directories(${EXE_NAME} PRIVATE "toulbar/src")

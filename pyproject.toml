@@ -1,0 +1,23 @@
+[project]
+name = "paper-experiments"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gurobipy>=12.0.2",
+    "pyscipopt>=5.4.1",
+    "pytoulbar2>=0.0.0.5",
+    "tqdm>=4.67.1",
+]
+
+[project.optional-dependencies]
+plots = [
+    "duckdb>=1.2.2",
+    "jupyterlab>=4.3.7",
+    "matplotlib>=3.7.5",
+    "numpy>=1.24.4",
+    "pandas>=2.0.3",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.1",
+]

@@ -1,0 +1,164 @@
+# Weight tuner option set to: global
+# Preprocessing: 0.138912 s
+# nodes: 816 edges: 1023
+# strategies: 10071 intervals: 675
+# Cost: 1.36000000e+20 (greedy) 0.14 s (iteration: 1)
+[0, 4, 4, 0, 4, 4, 0, 4, 4, 4, 3, 1, 1, 0, 8, 0, 4, 4, 0, 4, 4, 4, 6, 1, 1, 0, 2, 2, 2, 6, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 6, 1, 3, 6, 0, 0, 6, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 4, 0, 2, 6, 0, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 6, 0, 5, 0, 0, 0, 3, 3, 3, 3, 0, 6, 3, 3, 0, 6, 3, 3, 6, 3, 6, 3, 3, 3, 3, 3, 4, 0, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 6, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 6, 0, 4, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 4, 0, 2, 6, 0, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 6, 0, 5, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 0, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 6, 0, 0, 0, 2, 5, 5, 5, 0, 1, 1, 1, 1, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 2, 0, 1, 1, 0, 1, 1, 1, 4, 1, 1, 0, 2, 0, 2, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 6, 2, 2, 2, 2, 6, 6, 0, 6, 6, 0, 0, 1, 1, 1, 1, 1, 1, 1, 4, 1, 0, 4, 0, 0, 4, 0, 6, 6, 6, 6, 5, 6, 0, 0, 6, 6, 6, 5, 3, 0, 8, 8, 4, 5, 3, 3, 3, 5, 3, 3, 3, 6, 0, 0, 0, 0, 0, 6, 6, 0, 6, 6, 6, 6, 8, 3, 3, 6, 0, 0, 0, 0, 0, 5, 3, 0, 0, 0, 4, 0, 0, 0, 1, 1, 1, 1, 4, 0, 0, 2, 4, 0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 4, 2, 2, 0, 4, 2, 2, 4, 2, 4, 2, 2, 2, 2, 2, 0, 0, 0, 0, 1, 1, 1, 1, 4, 0, 0, 2, 4, 0, 0, 1, 1, 1, 1, 4, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 6, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 6, 6, 0, 6, 6, 6, 6, 6, 8, 6, 0, 0, 6, 6, 6, 8, 4, 5, 5, 5, 3, 3, 3, 3, 5, 3, 3, 3, 6, 0, 0, 0, 0, 0, 6, 6, 0, 6, 6, 6, 6, 8, 3, 3, 6, 0, 0, 0, 0, 0, 5, 3, 0, 0, 0, 4, 0, 0, 0, 1, 1, 1, 1, 4, 0, 0, 2, 4, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 1, 1, 1, 1, 4, 0, 0, 2, 4, 0, 0, 0, 5, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+# Cost: 6.57250080e+07 (greedy) 0.24 s (iteration: 1)
+[0, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 16, 1, 0, 1, 0, 0, 4, 0, 7, 4, 4, 6, 8, 8, 0, 1, 0, 0, 0, 8, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 6, 1, 7, 6, 1, 1, 1, 1, 1, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 5, 1, 3, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 1, 1, 7, 6, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 1, 24, 0, 0, 0, 0, 4, 0, 2, 14, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 5, 1, 5, 11, 11, 11, 11, 3, 3, 3, 0, 13, 3, 3, 0, 13, 3, 3, 13, 3, 13, 3, 3, 11, 11, 3, 4, 4, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 6, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 0, 0, 0, 0, 0, 0, 13, 13, 2, 9, 7, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 21, 0, 0, 0, 7, 6, 1, 7, 6, 1, 1, 1, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 4, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 14, 0, 0, 0, 0, 0, 11, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 11, 0, 3, 6, 15, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 6, 0, 2, 2, 2, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 6, 1, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 0, 4, 5, 2, 4, 4, 1, 1, 2, 6, 0, 2, 4, 0, 0, 1, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 0, 4, 5, 2, 4, 4, 1, 1, 2, 6, 0, 2, 4, 0, 0, 0, 0, 0, 1, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 0, 4, 5, 2, 4, 4, 1, 1, 2, 6, 0, 2, 4, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 4, 16, 14, 0, 2, 0, 2, 1, 0, 2, 1, 1, 5, 10, 3, 0, 1, 0, 0, 2, 3, 4, 6, 0, 0, 6, 6, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 2, 1, 1, 1, 6, 1, 2, 1, 4, 0, 0, 0, 15, 15, 6, 2, 2, 2, 2, 0, 6, 6, 6, 6, 6, 6, 1, 1, 10, 17, 11, 10, 4, 1, 4, 1, 1, 1, 1, 1, 1, 6, 6, 6, 8, 7, 8, 0, 0, 8, 8, 6, 7, 3, 0, 8, 6, 0, 10, 3, 3, 3, 6, 3, 3, 0, 6, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 3, 3, 0, 1, 4, 4, 4, 4, 0, 5, 4, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 4, 0, 5, 7, 1, 1, 7, 5, 2, 2, 0, 2, 2, 4, 0, 3, 4, 4, 3, 4, 3, 4, 4, 7, 3, 4, 4, 5, 0, 0, 0, 1, 1, 1, 4, 0, 1, 1, 3, 0, 0, 0, 2, 2, 2, 4, 0, 2, 2, 0, 0, 0, 0, 24, 24, 6, 2, 6, 4, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 6, 6, 6, 7, 4, 3, 2, 1, 3, 3, 3, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 0, 0, 7, 7, 7, 7, 1, 1, 1, 6, 1, 1, 1, 1, 1, 1, 1, 3, 6, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 1, 1, 7, 0, 0, 0, 0, 0, 1, 1, 4, 5, 2, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 1, 1, 3, 0, 0, 1, 0, 0, 13, 10, 6, 6, 6, 2, 2, 2, 2, 2, 2, 5, 0, 2, 6, 8, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 3, 0, 11, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 0, 4, 5, 2, 4, 4, 1, 1, 2, 6, 0, 2, 4, 0, 1, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 0, 4, 5, 2, 4, 4, 1, 1, 2, 6, 0, 2, 4, 0, 1]
+# Solver time:0.105167, Greedy time: 0.00119168, before greedy: 1873487, after greedy: 1785114 in iteration: 1 after: 0.332186 s
+# Solver time:0.103985, Greedy time: 0.00143356, before greedy: 3211146, after greedy: 3122773 in iteration: 1 after: 0.333035 s
+# Solver time:0.109254, Greedy time: 0.00108539, before greedy: 425382, after greedy: 425272 in iteration: 1 after: 0.337061 s
+# Solver time:0.110073, Greedy time: 0.000572041, before greedy: 381475, after greedy: 381475 in iteration: 1 after: 0.337473 s
+# Solver time:0.110844, Greedy time: 0.00136295, before greedy: 231450, after greedy: 229402 in iteration: 1 after: 0.338891 s
+# Solver time:0.11287, Greedy time: 0.000411646, before greedy: 217039, after greedy: 217039 in iteration: 1 after: 0.341546 s
+# Solver time:0.115083, Greedy time: 0.000444459, before greedy: 229274, after greedy: 229274 in iteration: 1 after: 0.342352 s
+# Cost: 2.97876790e+07 (greedy) 0.35 s (iteration: 1)
+[0, 1, 5, 0, 2, 5, 0, 1, 5, 5, 4, 16, 1, 0, 1, 0, 0, 4, 0, 4, 4, 4, 6, 8, 8, 0, 1, 1, 1, 0, 8, 4, 0, 0, 0, 0, 13, 2, 0, 0, 1, 1, 0, 1, 1, 9, 6, 1, 9, 6, 1, 2, 1, 1, 1, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 13, 2, 4, 1, 2, 2, 10, 2, 2, 2, 0, 0, 0, 7, 2, 2, 7, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 35, 32, 0, 0, 0, 0, 4, 0, 2, 0, 1, 1, 1, 1, 0, 0, 0, 7, 1, 1, 1, 5, 1, 5, 11, 0, 0, 24, 21, 3, 3, 0, 5, 3, 7, 0, 9, 7, 7, 9, 7, 11, 7, 7, 11, 0, 7, 4, 10, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 6, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 0, 0, 0, 0, 0, 0, 13, 13, 2, 9, 0, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 21, 0, 0, 0, 7, 6, 1, 7, 6, 1, 1, 1, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 4, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 14, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 6, 5, 5, 8, 10, 0, 0, 0, 0, 0, 0, 6, 0, 2, 2, 0, 0, 1, 9, 9, 1, 1, 5, 5, 1, 1, 1, 1, 0, 0, 6, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 1, 4, 5, 2, 4, 4, 2, 1, 2, 8, 6, 2, 4, 0, 0, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 1, 4, 5, 2, 4, 4, 2, 1, 2, 8, 6, 2, 4, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 1, 4, 5, 2, 4, 4, 2, 1, 2, 8, 6, 2, 4, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 4, 16, 14, 0, 14, 0, 2, 0, 0, 2, 0, 0, 4, 10, 3, 0, 1, 1, 1, 2, 3, 4, 6, 1, 1, 6, 6, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 3, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 2, 1, 1, 3, 0, 1, 2, 1, 4, 0, 0, 0, 0, 0, 6, 2, 2, 2, 2, 0, 6, 6, 6, 6, 1, 1, 6, 1, 10, 17, 11, 10, 1, 1, 1, 1, 3, 1, 1, 3, 1, 6, 6, 6, 6, 5, 8, 0, 0, 8, 8, 8, 7, 3, 0, 6, 8, 0, 10, 3, 3, 3, 6, 3, 3, 0, 6, 1, 6, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 3, 3, 7, 0, 0, 0, 0, 0, 0, 5, 4, 5, 2, 6, 2, 2, 2, 2, 0, 0, 0, 6, 2, 1, 1, 6, 2, 5, 7, 3, 3, 3, 5, 2, 2, 0, 2, 2, 2, 0, 6, 2, 2, 6, 2, 6, 2, 2, 3, 8, 2, 4, 5, 2, 2, 2, 2, 2, 2, 6, 2, 1, 1, 6, 2, 2, 2, 1, 1, 1, 6, 2, 2, 2, 6, 2, 0, 0, 1, 1, 6, 6, 7, 4, 1, 7, 4, 1, 1, 1, 1, 1, 1, 1, 6, 6, 2, 17, 11, 11, 7, 4, 11, 3, 3, 2, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 0, 0, 7, 7, 7, 7, 1, 1, 1, 6, 1, 1, 1, 1, 1, 1, 1, 1, 11, 1, 6, 0, 0, 0, 6, 6, 6, 6, 7, 7, 7, 7, 1, 3, 7, 0, 0, 0, 0, 0, 0, 0, 4, 0, 2, 7, 5, 2, 2, 2, 1, 1, 1, 6, 2, 1, 1, 6, 2, 6, 0, 4, 4, 5, 0, 6, 6, 6, 2, 2, 2, 2, 2, 2, 4, 5, 2, 8, 2, 2, 2, 2, 2, 2, 2, 6, 2, 2, 2, 6, 2, 11, 4, 1, 4, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 1, 4, 5, 2, 4, 4, 2, 1, 2, 8, 6, 2, 4, 0, 0, 0, 6, 6, 0, 0, 0, 6, 6, 1, 1, 4, 1, 1, 1, 4, 5, 2, 4, 4, 2, 1, 2, 8, 6, 2, 4, 0, 1]
+# Old lb 0.00112468 Old ub 1118.09
+# New lb 1.12468e-06 New ub 0.00112468
+# Cost: 2.17039000e+05 (pid: 0) 0.45 s (iteration: 2)
+[0, 7, 7, 0, 7, 7, 0, 7, 7, 7, 5, 17, 14, 0, 14, 0, 7, 7, 0, 7, 7, 7, 14, 14, 14, 0, 3, 3, 3, 14, 14, 7, 38, 13, 13, 5, 5, 5, 0, 0, 1, 1, 0, 1, 1, 12, 9, 9, 12, 9, 9, 9, 3, 3, 3, 3, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 1, 9, 5, 1, 5, 5, 1, 5, 5, 5, 13, 7, 7, 9, 6, 6, 9, 6, 6, 6, 6, 7, 7, 7, 7, 3, 0, 3, 12, 3, 3, 3, 12, 3, 13, 7, 3, 3, 3, 3, 8, 2, 3, 1, 9, 9, 9, 9, 3, 3, 3, 1, 9, 3, 3, 1, 9, 11, 4, 4, 4, 4, 4, 4, 4, 0, 10, 4, 4, 0, 10, 4, 4, 10, 4, 10, 4, 4, 4, 4, 4, 8, 9, 9, 9, 9, 3, 3, 3, 1, 9, 3, 3, 1, 9, 9, 9, 3, 3, 3, 1, 9, 3, 3, 1, 9, 0, 0, 0, 0, 0, 0, 0, 7, 4, 4, 7, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 7, 4, 4, 7, 4, 4, 4, 4, 0, 0, 0, 0, 2, 2, 9, 2, 2, 2, 9, 2, 0, 0, 1, 1, 1, 1, 8, 9, 3, 1, 9, 9, 9, 9, 3, 3, 3, 1, 9, 3, 3, 1, 9, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 9, 9, 9, 9, 3, 3, 3, 1, 9, 3, 3, 1, 9, 2, 2, 2, 1, 1, 5, 5, 1, 1, 1, 1, 0, 0, 8, 0, 7, 8, 8, 0, 0, 0, 8, 8, 1, 1, 5, 3, 3, 3, 8, 11, 3, 8, 7, 3, 3, 3, 0, 3, 3, 8, 0, 0, 0, 7, 8, 8, 0, 0, 0, 8, 8, 1, 1, 5, 3, 3, 3, 8, 11, 3, 8, 7, 3, 3, 3, 0, 3, 3, 8, 0, 0, 0, 0, 0, 0, 7, 8, 8, 0, 0, 0, 8, 8, 1, 1, 5, 3, 3, 3, 8, 11, 3, 8, 7, 3, 3, 3, 0, 3, 3, 8, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 5, 3, 2, 0, 2, 0, 1, 1, 0, 1, 1, 1, 1, 2, 2, 0, 3, 3, 3, 1, 2, 7, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 5, 3, 3, 5, 3, 3, 3, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 2, 1, 4, 3, 0, 1, 2, 1, 4, 0, 0, 0, 0, 0, 8, 3, 3, 3, 3, 8, 8, 8, 8, 8, 0, 0, 5, 3, 3, 5, 3, 3, 3, 4, 3, 0, 4, 0, 0, 4, 0, 8, 8, 8, 8, 7, 8, 7, 0, 8, 8, 8, 7, 3, 0, 8, 8, 4, 6, 3, 3, 3, 6, 3, 3, 3, 7, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 3, 3, 7, 0, 0, 0, 0, 0, 5, 3, 8, 4, 3, 1, 4, 4, 4, 4, 1, 1, 1, 1, 4, 3, 3, 1, 4, 11, 18, 15, 15, 15, 12, 8, 8, 0, 7, 8, 8, 0, 7, 8, 8, 7, 8, 7, 8, 8, 15, 12, 8, 8, 11, 4, 4, 4, 1, 1, 1, 1, 4, 3, 3, 1, 4, 4, 4, 1, 1, 1, 1, 4, 3, 3, 1, 4, 0, 0, 0, 0, 0, 0, 5, 3, 3, 5, 3, 3, 3, 3, 0, 0, 0, 0, 8, 0, 0, 5, 3, 3, 5, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 0, 0, 8, 8, 8, 8, 4, 6, 7, 7, 3, 3, 3, 3, 6, 3, 3, 3, 7, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 3, 3, 7, 0, 0, 0, 0, 0, 1, 1, 8, 1, 3, 1, 4, 4, 4, 4, 1, 1, 1, 1, 4, 3, 3, 1, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 4, 4, 4, 4, 1, 1, 1, 1, 4, 3, 3, 1, 4, 0, 0, 5, 0, 5, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 7, 8, 8, 0, 0, 0, 8, 8, 1, 1, 5, 3, 3, 3, 8, 11, 3, 8, 7, 3, 3, 3, 0, 3, 3, 8, 0, 0, 7, 8, 8, 0, 0, 0, 8, 8, 1, 1, 5, 3, 3, 3, 8, 11, 3, 8, 7, 3, 3, 3, 0, 3, 3, 8, 0, 1]
+# Solver time:0.0413403, Greedy time: 0.000555992, before greedy: 217039, after greedy: 217039 in iteration: 2 after: 0.479504 s
+# Solver time:0.0397966, Greedy time: 0.000438793, before greedy: 229274, after greedy: 229274 in iteration: 2 after: 0.480879 s
+# Solver time:0.0418134, Greedy time: 0.000392409, before greedy: 217039, after greedy: 217039 in iteration: 2 after: 0.481201 s
+# Solver time:0.0412647, Greedy time: 0.000392683, before greedy: 217039, after greedy: 217039 in iteration: 2 after: 0.481461 s
+# Solver time:0.039984, Greedy time: 0.000347074, before greedy: 217039, after greedy: 217039 in iteration: 2 after: 0.48193 s
+# Solver time:0.039239, Greedy time: 0.000343626, before greedy: 217039, after greedy: 217039 in iteration: 2 after: 0.48303 s
+# Solver time:0.0437379, Greedy time: 0.00034491, before greedy: 217039, after greedy: 217039 in iteration: 2 after: 0.485648 s
+# Old lb 0.000161632 Old ub 0.00112468
+# New lb 1.61632e-07 New ub 0.000161632
+# Solver time:0.0424189, Greedy time: 0.000603754, before greedy: 217039, after greedy: 217039 in iteration: 3 after: 0.596857 s
+# Solver time:0.0448569, Greedy time: 0.000503311, before greedy: 217039, after greedy: 217039 in iteration: 3 after: 0.600167 s
+# Solver time:0.0447265, Greedy time: 0.000432424, before greedy: 217039, after greedy: 217039 in iteration: 3 after: 0.600962 s
+# Old lb 2.32288e-05 Old ub 0.000161632
+# New lb 9.24304e-05 New ub 0.000115498
+# Solver time:0.0423623, Greedy time: 0.000645213, before greedy: 217039, after greedy: 217039 in iteration: 4 after: 0.710119 s
+# Solver time:0.0422294, Greedy time: 0.00047172, before greedy: 217039, after greedy: 217039 in iteration: 4 after: 0.710854 s
+# Solver time:0.0417624, Greedy time: 0.000441805, before greedy: 217039, after greedy: 217039 in iteration: 4 after: 0.711055 s
+# Solver time:0.0413697, Greedy time: 0.000372844, before greedy: 217039, after greedy: 217039 in iteration: 4 after: 0.711631 s
+# Solver time:0.0414465, Greedy time: 0.000371812, before greedy: 217039, after greedy: 217039 in iteration: 4 after: 0.713217 s
+# Solver time:0.041183, Greedy time: 0.000349557, before greedy: 217039, after greedy: 217039 in iteration: 4 after: 0.713618 s
+# Old lb 9.57257e-05 Old ub 0.000115498
+# New lb 9.57257e-05 New ub 9.9021e-05
+# Solver time:0.0422792, Greedy time: 0.000664463, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.823232 s
+# Solver time:0.0414856, Greedy time: 0.000490427, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.823971 s
+# Solver time:0.0423988, Greedy time: 0.000476373, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.82413 s
+# Solver time:0.0424147, Greedy time: 0.000478374, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.825767 s
+# Solver time:0.0417073, Greedy time: 0.000502568, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.825767 s
+# Solver time:0.0423883, Greedy time: 0.000387706, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.826762 s
+# Solver time:0.0413955, Greedy time: 0.000340588, before greedy: 217039, after greedy: 217039 in iteration: 5 after: 0.826948 s
+# Old lb 9.61965e-05 Old ub 9.9021e-05
+# New lb 9.61965e-08 New ub 9.61965e-05
+# Solver time:0.0430647, Greedy time: 0.000697026, before greedy: 217039, after greedy: 217039 in iteration: 6 after: 0.94139 s
+# Old lb 1.38248e-05 Old ub 9.61965e-05
+# New lb 8.24679e-05 New ub 9.61965e-05
+# Solver time:0.0418024, Greedy time: 0.000687847, before greedy: 217039, after greedy: 217039 in iteration: 7 after: 1.05338 s
+# Old lb 8.44291e-05 Old ub 9.61965e-05
+# New lb 9.42353e-05 New ub 9.61965e-05
+# Solver time:0.0429693, Greedy time: 0.000651775, before greedy: 217039, after greedy: 217039 in iteration: 8 after: 1.16667 s
+# Old lb 9.45154e-05 Old ub 9.61965e-05
+# New lb 9.59163e-05 New ub 9.61965e-05
+# Solver time:0.0421132, Greedy time: 0.000657192, before greedy: 217039, after greedy: 217039 in iteration: 9 after: 1.27822 s
+# Solver time:0.0433758, Greedy time: 0.000607718, before greedy: 217039, after greedy: 217039 in iteration: 9 after: 1.28079 s
+# Solver time:0.0423937, Greedy time: 0.000429971, before greedy: 217039, after greedy: 217039 in iteration: 9 after: 1.28149 s
+# Solver time:0.0419142, Greedy time: 0.00036918, before greedy: 217039, after greedy: 217039 in iteration: 9 after: 1.28202 s
+# Solver time:0.0420572, Greedy time: 0.000348054, before greedy: 217039, after greedy: 217039 in iteration: 9 after: 1.28328 s
+# Solver time:0.041766, Greedy time: 0.00033197, before greedy: 217039, after greedy: 217039 in iteration: 9 after: 1.28388 s
+# Old lb 9.59563e-05 Old ub 9.61965e-05
+# New lb 9.59563e-05 New ub 9.59964e-05
+# Solver time:0.0425911, Greedy time: 0.000631647, before greedy: 217039, after greedy: 217039 in iteration: 10 after: 1.39288 s
+# Solver time:0.0411773, Greedy time: 0.000542397, before greedy: 217039, after greedy: 217039 in iteration: 10 after: 1.39765 s
+# Solver time:0.0429726, Greedy time: 0.000614621, before greedy: 217039, after greedy: 217039 in iteration: 10 after: 1.39765 s
+# Old lb 9.59621e-05 Old ub 9.59964e-05
+# New lb 9.59792e-05 New ub 9.59849e-05
+# Solver time:0.0410936, Greedy time: 0.000692552, before greedy: 217039, after greedy: 217039 in iteration: 11 after: 1.5097 s
+# Solver time:0.041912, Greedy time: 0.000558641, before greedy: 217039, after greedy: 217039 in iteration: 11 after: 1.51013 s
+# Solver time:0.0404326, Greedy time: 0.000431785, before greedy: 217039, after greedy: 217039 in iteration: 11 after: 1.51028 s
+# Old lb 9.598e-05 Old ub 9.59849e-05
+# New lb 9.59825e-05 New ub 9.59833e-05
+# Solver time:0.0420406, Greedy time: 0.000686662, before greedy: 217039, after greedy: 217039 in iteration: 12 after: 1.61974 s
+# Solver time:0.0419724, Greedy time: 0.000467613, before greedy: 217039, after greedy: 217039 in iteration: 12 after: 1.62035 s
+# Solver time:0.041615, Greedy time: 0.000381196, before greedy: 217039, after greedy: 217039 in iteration: 12 after: 1.62083 s
+# Solver time:0.040898, Greedy time: 0.000355413, before greedy: 217039, after greedy: 217039 in iteration: 12 after: 1.62191 s
+# Solver time:0.0420836, Greedy time: 0.000363966, before greedy: 217039, after greedy: 217039 in iteration: 12 after: 1.62238 s
+# Solver time:0.0418636, Greedy time: 0.00040034, before greedy: 217039, after greedy: 217039 in iteration: 12 after: 1.62375 s
+# Old lb 9.59826e-05 Old ub 9.59833e-05
+# New lb 9.59826e-05 New ub 9.59827e-05
+# Solver time:0.0423482, Greedy time: 0.000646032, before greedy: 217039, after greedy: 217039 in iteration: 13 after: 1.73425 s
+# Old lb 9.59826e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0417584, Greedy time: 0.000667682, before greedy: 217039, after greedy: 217039 in iteration: 14 after: 1.84729 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0425082, Greedy time: 0.000682971, before greedy: 217039, after greedy: 217039 in iteration: 15 after: 1.95805 s
+# Solver time:0.0414485, Greedy time: 0.000538601, before greedy: 217039, after greedy: 217039 in iteration: 15 after: 1.96041 s
+# Solver time:0.0410983, Greedy time: 0.000472451, before greedy: 217039, after greedy: 217039 in iteration: 15 after: 1.96043 s
+# Solver time:0.0428017, Greedy time: 0.000416288, before greedy: 217039, after greedy: 217039 in iteration: 15 after: 1.96052 s
+# Solver time:0.0418507, Greedy time: 0.000378158, before greedy: 217039, after greedy: 217039 in iteration: 15 after: 1.963 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0420044, Greedy time: 0.000668485, before greedy: 217039, after greedy: 217039 in iteration: 16 after: 2.07247 s
+# Solver time:0.0419375, Greedy time: 0.000557246, before greedy: 217039, after greedy: 217039 in iteration: 16 after: 2.07315 s
+# Solver time:0.0412287, Greedy time: 0.000411279, before greedy: 217039, after greedy: 217039 in iteration: 16 after: 2.07493 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0422185, Greedy time: 0.000665538, before greedy: 217039, after greedy: 217039 in iteration: 17 after: 2.18605 s
+# Solver time:0.0418344, Greedy time: 0.000504199, before greedy: 217039, after greedy: 217039 in iteration: 17 after: 2.18711 s
+# Solver time:0.0413336, Greedy time: 0.000432542, before greedy: 217039, after greedy: 217039 in iteration: 17 after: 2.18745 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0408488, Greedy time: 0.000617113, before greedy: 217039, after greedy: 217039 in iteration: 18 after: 2.29868 s
+# Solver time:0.0412703, Greedy time: 0.000487885, before greedy: 217039, after greedy: 217039 in iteration: 18 after: 2.29973 s
+# Solver time:0.0422942, Greedy time: 0.000422865, before greedy: 217039, after greedy: 217039 in iteration: 18 after: 2.30157 s
+# Solver time:0.0441757, Greedy time: 0.000396335, before greedy: 217039, after greedy: 217039 in iteration: 18 after: 2.30473 s
+# Solver time:0.0412411, Greedy time: 0.000351388, before greedy: 217039, after greedy: 217039 in iteration: 18 after: 2.30495 s
+# Solver time:0.042959, Greedy time: 0.000406187, before greedy: 217039, after greedy: 217039 in iteration: 18 after: 2.30496 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0411866, Greedy time: 0.000640407, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.41197 s
+# Solver time:0.0406167, Greedy time: 0.000479273, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.41255 s
+# Solver time:0.0421584, Greedy time: 0.000453252, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.41541 s
+# Solver time:0.0431177, Greedy time: 0.000391342, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.41717 s
+# Solver time:0.0419093, Greedy time: 0.000347449, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.4182 s
+# Solver time:0.0430023, Greedy time: 0.000419687, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.41847 s
+# Solver time:0.0418217, Greedy time: 0.000333671, before greedy: 217039, after greedy: 217039 in iteration: 19 after: 2.41905 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-08 New ub 9.59827e-05
+# Solver time:0.0433234, Greedy time: 0.000677578, before greedy: 217039, after greedy: 217039 in iteration: 20 after: 2.5323 s
+# Old lb 1.37941e-05 Old ub 9.59827e-05
+# New lb 8.22846e-05 New ub 9.59827e-05
+# Solver time:0.0412601, Greedy time: 0.000670258, before greedy: 217039, after greedy: 217039 in iteration: 21 after: 2.64649 s
+# Old lb 8.42415e-05 Old ub 9.59827e-05
+# New lb 9.40258e-05 New ub 9.59827e-05
+# Solver time:0.0426662, Greedy time: 0.000690088, before greedy: 217039, after greedy: 217039 in iteration: 22 after: 2.76075 s
+# Old lb 9.43054e-05 Old ub 9.59827e-05
+# New lb 9.57032e-05 New ub 9.59827e-05
+# Solver time:0.0413068, Greedy time: 0.000642095, before greedy: 217039, after greedy: 217039 in iteration: 23 after: 2.86913 s
+# Old lb 9.57431e-05 Old ub 9.59827e-05
+# New lb 9.59428e-05 New ub 9.59827e-05
+# Solver time:0.0420001, Greedy time: 0.00065086, before greedy: 217039, after greedy: 217039 in iteration: 24 after: 2.98425 s
+# Old lb 9.59485e-05 Old ub 9.59827e-05
+# New lb 9.5977e-05 New ub 9.59827e-05
+# Solver time:0.0424479, Greedy time: 0.000664793, before greedy: 217039, after greedy: 217039 in iteration: 25 after: 3.10216 s
+# Old lb 9.59778e-05 Old ub 9.59827e-05
+# New lb 9.59819e-05 New ub 9.59827e-05
+# Solver time:0.0421538, Greedy time: 0.000680549, before greedy: 217039, after greedy: 217039 in iteration: 26 after: 3.21844 s
+# Old lb 9.5982e-05 Old ub 9.59827e-05
+# New lb 9.59826e-05 New ub 9.59827e-05
+# Solver time:0.0412543, Greedy time: 0.000650713, before greedy: 217039, after greedy: 217039 in iteration: 27 after: 3.33227 s
+# Old lb 9.59826e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0417303, Greedy time: 0.000686102, before greedy: 217039, after greedy: 217039 in iteration: 28 after: 3.44398 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0414738, Greedy time: 0.000556065, before greedy: 217039, after greedy: 217039 in iteration: 29 after: 3.55563 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0422434, Greedy time: 0.000544818, before greedy: 217039, after greedy: 217039 in iteration: 30 after: 3.67857 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0411878, Greedy time: 0.000511529, before greedy: 217039, after greedy: 217039 in iteration: 31 after: 3.79221 s
+# Old lb 9.59827e-05 Old ub 9.59827e-05
+# New lb 9.59827e-05 New ub 9.59827e-05
+# Solver time:0.0410349, Greedy time: 0.000388158, before greedy: 217039, after greedy: 217039 in iteration: 32 after: 3.90183 s

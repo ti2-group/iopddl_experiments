@@ -1,0 +1,9 @@
+#!/bin/bash
+#SBATCH --partition=short,long
+#SBATCH --exclusive
+#SBATCH --mem=240G
+#SBATCH --time=3:00:00
+#SBATCH --array=0-24
+
+
+uv run toulbar_lagrange_quick.py

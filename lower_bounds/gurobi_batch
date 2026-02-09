@@ -1,0 +1,8 @@
+#!/bin/bash
+#SBATCH --partition=long
+
+#SBATCH --exclusive
+#SBATCH --mem=248G
+#SBATCH --array=20
+
+uv run gurobi_lagrange.py
